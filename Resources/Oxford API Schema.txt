@@ -1,0 +1,1133 @@
+text 
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ace",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (denoting the ‘one’ on dice): via Old French from Latin as ‘unity, a unit’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a playing card with a single spot on it, ranked as the highest card in its suit in most card games"
+                                    ],
+                                    "domains": [
+                                        "Cards"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "registers": [
+                                                "figurative"
+                                            ],
+                                            "text": "life had started dealing him aces again"
+                                        },
+                                        {
+                                            "text": "the ace of diamonds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "a person who excels at a particular sport or other activity"
+                                    ],
+                                    "domains": [
+                                        "Sport"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a motorcycle ace"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.010",
+                                    "registers": [
+                                        "informal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a pilot who has shot down many enemy aircraft"
+                                            ],
+                                            "domains": [
+                                                "Air Force"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a Battle of Britain ace"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0005680.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in tennis and similar games) a service that an opponent is unable to return and thus wins a point"
+                                    ],
+                                    "domains": [
+                                        "Tennis"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Nadal banged down eight aces in the set"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a hole in one"
+                                            ],
+                                            "domains": [
+                                                "Golf"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his hole in one at the 15th was Senior's second ace as a professional"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0005680.014",
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ace_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "e?s"
+                        }
+                    ],
+                    "text": "ace"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "very good"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Ace! You've done it!"
+                                        },
+                                        {
+                                            "text": "an ace swimmer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.016",
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ace_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "e?s"
+                        }
+                    ],
+                    "text": "ace"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in tennis and similar games) serve an ace against (an opponent)"
+                                    ],
+                                    "domains": [
+                                        "Tennis"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he can ace opponents with serves of no more than 62 mph"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.020",
+                                    "registers": [
+                                        "informal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "score an ace on (a hole) or with (a shot)"
+                                            ],
+                                            "domains": [
+                                                "Golf"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there was a prize for the first player to ace the hole"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0005680.026"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "achieve high marks in (a test or exam)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I aced my grammar test"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0005680.028",
+                                    "regions": [
+                                        "North American"
+                                    ],
+                                    "registers": [
+                                        "informal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "outdo someone in a competitive situation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the magazine won an award, acing out its rivals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0005680.029",
+                                            "notes": [
+                                                {
+                                                    "text": "\"ace someone out\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ace_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "e?s"
+                        }
+                    ],
+                    "text": "ace"
+                }
+            ],
+            "type": "headword",
+            "word": "ace"
+        }
+    ]
+}
+############
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "ace",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "antonyms": [
+                    {
+                      "id": "amateur",
+                      "language": "en",
+                      "text": "amateur"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "a rowing ace"
+                    }
+                  ],
+                  "id": "t_en_gb0000173.001",
+                  "registers": [
+                    "informal"
+                  ],
+                  "subsenses": [
+                    {
+                      "id": "id0d3b47dd-8fb3-4f10-9242-a7360d97fdc2",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "wunderkind",
+                          "language": "en",
+                          "text": "wunderkind"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idb877b692-457c-45e8-a92c-97644810957c",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "demon",
+                          "language": "en",
+                          "text": "demon"
+                        },
+                        {
+                          "id": "pro",
+                          "language": "en",
+                          "text": "pro"
+                        },
+                        {
+                          "id": "wizard",
+                          "language": "en",
+                          "text": "wizard"
+                        },
+                        {
+                          "id": "hotshot",
+                          "language": "en",
+                          "text": "hotshot"
+                        },
+                        {
+                          "id": "whizz",
+                          "language": "en",
+                          "text": "whizz"
+                        },
+                        {
+                          "id": "wiz",
+                          "language": "en",
+                          "text": "wiz"
+                        },
+                        {
+                          "id": "ninja",
+                          "language": "en",
+                          "text": "ninja"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idc0d83784-acc8-4883-a584-b8cb21788ba5",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "dab_hand",
+                          "language": "en",
+                          "text": "dab hand"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id6707d21c-fe6e-48cc-a0a5-cd2609ec324b",
+                      "regions": [
+                        "North American"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "maven",
+                          "language": "en",
+                          "text": "maven"
+                        },
+                        {
+                          "id": "crackerjack",
+                          "language": "en",
+                          "text": "crackerjack"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "expert",
+                      "language": "en",
+                      "text": "expert"
+                    },
+                    {
+                      "id": "master",
+                      "language": "en",
+                      "text": "master"
+                    },
+                    {
+                      "id": "genius",
+                      "language": "en",
+                      "text": "genius"
+                    },
+                    {
+                      "id": "virtuoso",
+                      "language": "en",
+                      "text": "virtuoso"
+                    },
+                    {
+                      "id": "maestro",
+                      "language": "en",
+                      "text": "maestro"
+                    },
+                    {
+                      "id": "professional",
+                      "language": "en",
+                      "text": "professional"
+                    },
+                    {
+                      "id": "adept",
+                      "language": "en",
+                      "text": "adept"
+                    },
+                    {
+                      "id": "past_master",
+                      "language": "en",
+                      "text": "past master"
+                    },
+                    {
+                      "id": "doyen",
+                      "language": "en",
+                      "text": "doyen"
+                    },
+                    {
+                      "id": "champion",
+                      "language": "en",
+                      "text": "champion"
+                    },
+                    {
+                      "id": "star",
+                      "language": "en",
+                      "text": "star"
+                    },
+                    {
+                      "id": "winner",
+                      "language": "en",
+                      "text": "winner"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "text": "ace"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "antonyms": [
+                    {
+                      "id": "mediocre",
+                      "language": "en",
+                      "text": "mediocre"
+                    },
+                    {
+                      "id": "amateurish",
+                      "language": "en",
+                      "text": "amateurish"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "an ace tennis player"
+                    }
+                  ],
+                  "id": "t_en_gb0000173.002",
+                  "registers": [
+                    "informal"
+                  ],
+                  "subsenses": [
+                    {
+                      "id": "id3f7aa369-1511-4539-a00f-916bed488e4d",
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "great",
+                          "language": "en",
+                          "text": "great"
+                        },
+                        {
+                          "id": "terrific",
+                          "language": "en",
+                          "text": "terrific"
+                        },
+                        {
+                          "id": "tremendous",
+                          "language": "en",
+                          "text": "tremendous"
+                        },
+                        {
+                          "id": "superb",
+                          "language": "en",
+                          "text": "superb"
+                        },
+                        {
+                          "id": "smashing",
+                          "language": "en",
+                          "text": "smashing"
+                        },
+                        {
+                          "id": "fantastic",
+                          "language": "en",
+                          "text": "fantastic"
+                        },
+                        {
+                          "id": "stellar",
+                          "language": "en",
+                          "text": "stellar"
+                        },
+                        {
+                          "id": "sensational",
+                          "language": "en",
+                          "text": "sensational"
+                        },
+                        {
+                          "id": "fabulous",
+                          "language": "en",
+                          "text": "fabulous"
+                        },
+                        {
+                          "id": "fab",
+                          "language": "en",
+                          "text": "fab"
+                        },
+                        {
+                          "id": "crack",
+                          "language": "en",
+                          "text": "crack"
+                        },
+                        {
+                          "id": "hotshot",
+                          "language": "en",
+                          "text": "hotshot"
+                        },
+                        {
+                          "id": "a1",
+                          "language": "en",
+                          "text": "A1"
+                        },
+                        {
+                          "id": "mean",
+                          "language": "en",
+                          "text": "mean"
+                        },
+                        {
+                          "id": "demon",
+                          "language": "en",
+                          "text": "demon"
+                        },
+                        {
+                          "id": "awesome",
+                          "language": "en",
+                          "text": "awesome"
+                        },
+                        {
+                          "id": "magic",
+                          "language": "en",
+                          "text": "magic"
+                        },
+                        {
+                          "id": "wicked",
+                          "language": "en",
+                          "text": "wicked"
+                        },
+                        {
+                          "id": "tip-top",
+                          "language": "en",
+                          "text": "tip-top"
+                        },
+                        {
+                          "id": "top-notch",
+                          "language": "en",
+                          "text": "top-notch"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id0e0e99ad-a273-40b5-b4a8-c24446d29164",
+                      "regions": [
+                        "British"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "brilliant",
+                          "language": "en",
+                          "text": "brilliant"
+                        },
+                        {
+                          "id": "brill",
+                          "language": "en",
+                          "text": "brill"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id0dc37dbe-c989-4bae-9343-4cbcac35d9bf",
+                      "regions": [
+                        "North American"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "badass",
+                          "language": "en",
+                          "text": "badass"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "idb5c892a7-1a3a-4f9a-88df-7813e62f86e4",
+                      "registers": [
+                        "informal",
+                        "vulgar slang"
+                      ],
+                      "synonyms": [
+                        {
+                          "id": "shit-hot",
+                          "language": "en",
+                          "text": "shit-hot"
+                        }
+                      ]
+                    }
+                  ],
+                  "synonyms": [
+                    {
+                      "id": "excellent",
+                      "language": "en",
+                      "text": "excellent"
+                    },
+                    {
+                      "id": "very_good",
+                      "language": "en",
+                      "text": "very good"
+                    },
+                    {
+                      "id": "first-rate",
+                      "language": "en",
+                      "text": "first-rate"
+                    },
+                    {
+                      "id": "first-class",
+                      "language": "en",
+                      "text": "first-class"
+                    },
+                    {
+                      "id": "marvellous",
+                      "language": "en",
+                      "text": "marvellous"
+                    },
+                    {
+                      "id": "wonderful",
+                      "language": "en",
+                      "text": "wonderful"
+                    },
+                    {
+                      "id": "magnificent",
+                      "language": "en",
+                      "text": "magnificent"
+                    },
+                    {
+                      "id": "outstanding",
+                      "language": "en",
+                      "text": "outstanding"
+                    },
+                    {
+                      "id": "superlative",
+                      "language": "en",
+                      "text": "superlative"
+                    },
+                    {
+                      "id": "formidable",
+                      "language": "en",
+                      "text": "formidable"
+                    },
+                    {
+                      "id": "virtuoso",
+                      "language": "en",
+                      "text": "virtuoso"
+                    },
+                    {
+                      "id": "masterly",
+                      "language": "en",
+                      "text": "masterly"
+                    },
+                    {
+                      "id": "expert",
+                      "language": "en",
+                      "text": "expert"
+                    },
+                    {
+                      "id": "champion",
+                      "language": "en",
+                      "text": "champion"
+                    },
+                    {
+                      "id": "fine",
+                      "language": "en",
+                      "text": "fine"
+                    },
+                    {
+                      "id": "consummate",
+                      "language": "en",
+                      "text": "consummate"
+                    },
+                    {
+                      "id": "skilful",
+                      "language": "en",
+                      "text": "skilful"
+                    },
+                    {
+                      "id": "adept",
+                      "language": "en",
+                      "text": "adept"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "text": "ace"
+        }
+      ],
+      "type": "headword",
+      "word": "ace"
+    }
+  ]
+}
+
+########### Translations:
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "ace",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "to have another ace to play",
+                      "translations": [
+                        {
+                          "language": "es",
+                          "text": "tener un as en la manga"
+                        },
+                        {
+                          "language": "es",
+                          "text": "tener otra baza importante"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "the ace of clubs",
+                      "translations": [
+                        {
+                          "language": "es",
+                          "text": "el as de tréboles"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-en-es0000347.002",
+                  "notes": [
+                    {
+                      "text": "in cards, dominoes, dice",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "text": "as"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-en-es0000347.003",
+                  "notes": [
+                    {
+                      "text": "in tennis",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "text": "ace"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-en-es0000347.004",
+                  "notes": [
+                    {
+                      "text": "expert, champion",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "text": "as"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "text": "ace"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "an ace driver/pilot",
+                      "translations": [
+                        {
+                          "language": "es",
+                          "text": "un as del volante/de la aviación"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-en-es0000347.007",
+                  "notes": [
+                    {
+                      "text": "before noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "text": "de primera"
+                    },
+                    {
+                      "language": "es",
+                      "text": "destacado"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-en-es0000347.008",
+                  "regions": [
+                    "British"
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "registers": [
+                        "informal"
+                      ],
+                      "text": "bárbaro"
+                    },
+                    {
+                      "language": "es",
+                      "regions": [
+                        "Spain"
+                      ],
+                      "registers": [
+                        "slang"
+                      ],
+                      "text": "guay"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "text": "ace"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                },
+                {
+                  "text": "Present",
+                  "type": "Tense"
+                }
+              ],
+              "homographNumber": "002",
+              "senses": [
+                {
+                  "id": "b-en-es0000347.010",
+                  "regions": [
+                    "US"
+                  ],
+                  "translations": [
+                    {
+                      "language": "es",
+                      "text": "lucirse en"
+                    },
+                    {
+                      "language": "es",
+                      "text": "sobresalir en"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Verb",
+          "text": "ace"
+        }
+      ],
+      "type": "headword",
+      "word": "ace"
+    }
+  ]
+}
+#####################################################################################
+
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "virtue",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French vertu, from Latin virtus ‘valour, merit, moral perfection’, from vir ‘man’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "behaviour showing high moral standards"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "paragons of virtue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1131710.007",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a quality considered morally good or desirable in a person"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "patience is a virtue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131710.009",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a good or useful quality of a thing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "there's no virtue in suffering in silence"
+                                                },
+                                                {
+                                                    "text": "Mike was extolling the virtues of the car"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1131710.013",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "virginity or chastity, especially of a woman."
+                                            ],
+                                            "id": "m_en_gbus1131710.014",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in traditional Christian angelology) the seventh-highest order of the ninefold celestial hierarchy."
+                                    ],
+                                    "domains": [
+                                        "Theology"
+                                    ],
+                                    "id": "m_en_gbus1131710.016",
+                                    "notes": [
+                                        {
+                                            "text": "\"virtues\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/virtue_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "'v??tju?"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/virtue_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "'v??t?u?"
+                        }
+                    ],
+                    "text": "virtue"
+                }
+            ],
+            "type": "headword",
+            "word": "virtue"
+        }
+    ]
+}
